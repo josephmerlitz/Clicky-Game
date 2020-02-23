@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Paladin",
+    "image": "https://img.rankedboost.com/wp-content/uploads/2019/05/WoW-Classic-Paladin-Guide.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Death Knight",
+    "image": "https://static-cdn.jtvnw.net/jtv_user_pictures/notmes-profile_image-cb6d0d419a1e2ac4-300x300.jpeg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Priest",
+    "image": "https://lh3.googleusercontent.com/viVs9A0z7Vgbo7yGRoFg9ntxR7juOHVg6aen5Fl25sbvUiDsDHuq8HzyMzTft788Duq5-ZIJV30BJq3xC07_khcAJs9vmMnIKX57m4wdercGuLVTe6IyN6JUsmUnX4l1lNvjL78",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Warrior",
+    "image": "https://wotlkdoc.readthedocs.io/_images/01-Warrior.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Rogue",
+    "image": "https://img.rankedboost.com/wp-content/uploads/2019/05/WoW-Classic-Rogue-Guide.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Demon Hunter",
+    "image": "https://i.ya-webdesign.com/images/wow-demon-hunter-png-12.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Shaman",
+    "image": "https://img.rankedboost.com/wp-content/uploads/2019/05/WoW-Classic-Shaman-Guide.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Hunter",
+    "image": "https://lh3.googleusercontent.com/proxy/nqdKpZOsks4z6_Du3lzC1Y0jr3fEbVK1BtxWHNMGQDC0hW1scOmI5XRxo6ymhxERTAVls_GODiL8imowJJ0aPYx-",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Monk",
+    "image": "https://www.exiledpower.com/dist/img/classicons/monk_icon.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Warlock",
+    "image": "https://img.rankedboost.com/wp-content/uploads/2019/05/WoW-Classic-Warlock-Guide.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Mage",
+    "image": "https://forum.crestfall.online/uploads/monthly_2016_10/mageicon.png.024d7a8d167afd339b1a463d350e0ca0.thumb.png.189c886936ad9f6ae4e2f6ba8b6346ae.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Druid",
+    "image": "https://i.imgur.com/bK8KR1s.png",
+    "count": 0
+  }
+]
